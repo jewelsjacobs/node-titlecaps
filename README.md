@@ -8,7 +8,7 @@ Install the module with: `npm install titlecaps`
 ```javascript
 var caps = require('./serverScripts/titlecaps.js');
 
-caps.titlecaps("capitolize me"); //Capitolize Me
+caps.titlecaps("capitolize me"); // Capitolize Me
 ```
 
 ## Contributing
