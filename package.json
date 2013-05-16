@@ -1,7 +1,7 @@
 {
   "name": "titlecaps",
   "description": "Node module to capitalize first letter in each word",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/jewelsjacobs/node-titlecaps",
   "author": {
     "name": "Julia Jacobs",
