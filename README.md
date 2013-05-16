@@ -6,7 +6,7 @@ Node module to capitalize first letter in each word
 Install the module with: `npm install titlecaps`
 
 ```javascript
-var caps = require('./serverScripts/titlecaps.js');
+var caps = require('titlecaps');
 
 caps.titlecaps("capitalize me"); // Capitalize Me
 ```
